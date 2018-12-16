@@ -1,0 +1,47 @@
+/*--------------------
+----------------------
+-----Navigation--------
+-----------------------*/
+
+.nav>li {
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+.navbar-default .navbar-brand {
+  font-size: 40px;
+  color: #000;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #000;
+  font-size: 16px;
+  font-family: sans-serif;
+  border-radius: 3em;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  background-color: #ff6ca77d;
+  cursor: pointer;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+  border-radius: 3em;
+  color: #555;
+  background-color: #ff6ca7;
+}
+
+.navbar {
+  padding: 20px 0;
+  -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
+  -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
+  transition: background .5s ease-in-out, padding .5s ease-in-out;
+}
+
+.top-nav-collapse {
+  padding: 0;
+}
+
+#nav .container {
+  padding-right: 0;
+}

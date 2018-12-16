@@ -1,0 +1,19 @@
+{
+  "name": "trapzy",
+  "version": "0.0.4",
+  "description": "Trapzy Gaming Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https:://github.com/Tuckii/TrapzyGaming"
+  },
+  "keywords": [
+    "Esport",
+    "Team"
+  ],
+  "author": "Cesar Lira",
+  "license": "ISC"
+}
